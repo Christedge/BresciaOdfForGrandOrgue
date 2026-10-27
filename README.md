@@ -18,7 +18,7 @@ In this repository you'll find an organ definition file (ODF) and additional fil
 
 * Put all the extracted files in one place. The required structure is as follows:
   
-  ![Folder structure](./folder structure.png)
+  ![Folder structure](folder structure.png)
 
 * Ensure your MIDI keyboard is connected to your computer.
 
